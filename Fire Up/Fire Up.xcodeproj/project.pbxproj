@@ -264,6 +264,7 @@
 		B169EFE81A62FAF600920072 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = sunkai;
 				TargetAttributes = {
